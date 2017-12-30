@@ -1,2 +1,2 @@
 # hello-world
-learning repository
+Hi, I'm Zhang Sifan from China!
